@@ -5,7 +5,7 @@
       <code>&nbsp;<a href="https://github.com/AndorkaDominik/Java/wiki/Prog-3-alapjai:-Kidolgozott-gyakorl%C3%B3feladatok">Kidolgozott Feladatok</a>&nbsp;</code>
     </strong>
 </h3>
-<br /> <br />
+<br />
 <h3 >
     <strong>
       <code>&nbsp;<a href="https://github.com/AndorkaDominik/Prog-3-Java/wiki/1.-Kis-Z%C3%A1rthelyi
@@ -13,6 +13,7 @@
     </strong>
 </h3>
 
+<br /> <br />
 # Labor megoldások
 ### 
 > https://git.sch.bme.hu/ecklm/prog3-laborok/-/tree/master?ref_type=heads
