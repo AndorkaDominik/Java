@@ -6,6 +6,12 @@
     </strong>
 </h3>
 <br /> <br />
+<h3 >
+    <strong>
+      <code>&nbsp;<a href="https://github.com/AndorkaDominik/Prog-3-Java/wiki/1.-Kis-Z%C3%A1rthelyi
+">1. KisZh Feladatok</a>&nbsp;</code>
+    </strong>
+</h3>
 
 # Labor megoldások
 ### 
