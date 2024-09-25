@@ -1,51 +1,12 @@
-> [!CAUTION]
-> A kidolgozott gyakorló feladatok itt érhetőek el:
+
+> Itt egy link
     <strong>
       <code>&nbsp;<a href="https://github.com/AndorkaDominik/Prog-3-Java/wiki/Kidolgozott-gyakorl%C3%B3feladatok">Link</a>&nbsp;</code>
     </strong>
 <br />
 <br />
 
-# Kis Zárthelyi feladatok(igaz hamis + kódok)
-> [!Note]
-> 1. KisZh Feladatok:
-    <strong>
-      <code>&nbsp;<a href="https://github.com/AndorkaDominik/Prog-3-Java/wiki/1.-Kis-Z%C3%A1rthelyi">Link</a>&nbsp;</code>
-    </strong>
 
-> [!Note]
-> 2. KisZh Feladatok:
-    <strong>
-      <code>&nbsp;<a href="https://github.com/AndorkaDominik/Prog-3-Java/wiki/1.-Kis-Z%C3%A1rthelyi
-">Link</a>&nbsp;</code>
-    </strong>
-
-> [!Note]
-> 3. KisZh Feladatok:
-    <strong>
-      <code>&nbsp;<a href="https://github.com/AndorkaDominik/Prog-3-Java/wiki/1.-Kis-Z%C3%A1rthelyi
-">Link</a>&nbsp;</code>
-    </strong>
-
-> [!Note]
-> 4. KisZh Feladatok:
-    <strong>
-      <code>&nbsp;<a href="https://github.com/AndorkaDominik/Prog-3-Java/wiki/1.-Kis-Z%C3%A1rthelyi
-">Link</a>&nbsp;</code>
-    </strong>
-
-> [!Note]
-> 5. KisZh Feladatok:
-    <strong>
-      <code>&nbsp;<a href="https://github.com/AndorkaDominik/Prog-3-Java/wiki/1.-Kis-Z%C3%A1rthelyi
-">Link</a>&nbsp;</code>
-    </strong>
-
-<br /> <br />
-# Labor megoldások
-<strong>
-      <code>&nbsp;<a href="https://git.sch.bme.hu/ecklm/prog3-laborok/-/tree/master?ref_type=heads">Link</a>&nbsp;</code>
-</strong>
 
 ### Java programozás könyvek
 <strong>
