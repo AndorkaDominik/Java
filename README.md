@@ -1,7 +1,7 @@
 
 > Itt egy link
     <strong>
-      <code>&nbsp;<a href="https://github.com/AndorkaDominik/Prog-3-Java/wiki/Kidolgozott-gyakorl%C3%B3feladatok">Link</a>&nbsp;</code>
+      <code>&nbsp;<a href="https://github.com/AndorkaDominik/Kisokos/wiki">Link</a>&nbsp;</code>
     </strong>
 <br />
 <br />
