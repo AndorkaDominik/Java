@@ -7,7 +7,6 @@
 <br />
 
 
-
 ### Java programozás könyvek
 <strong>
       <code>&nbsp;<a href="https://git.sch.bme.hu/ecklm/prog3-laborok/-/blob/master/java_programozas_1.3.pdf?ref_type=heads">Könyv 1</a>&nbsp;</code>
