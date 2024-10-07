@@ -5,10 +5,15 @@
     </strong>
 <br />
 <br />
+
 ## Hivatalos
 
 https://www.iit.bme.hu/targyak/BMEVIIIAB00/prog3-gyakorl%C3%B3-k%C3%A9rd%C3%A9sek
 https://www.iit.bme.hu/targyak/BMEVIIIAB00/prog3-gyakorl%C3%B3-p%C3%A9ld%C3%A1k
+
+# Labor megoldások
+### 
+> https://git.sch.bme.hu/ecklm/prog3-laborok/-/tree/master?ref_type=heads
 
 ### Java programozás könyvek
 <strong>
